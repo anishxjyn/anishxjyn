@@ -1,70 +1,86 @@
+<h1 align="center">Hi, I'm Naveen Kumar</h1>
+<h3 align="center">Gamer |  Data Scientist  |  Tech Enthusiast</h3>
+
+
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tejkiran Kushwaha</h1>
-<h3 align="center">App Dev |  Web Dev  |  Tech Enthusiast</h3>
-<p align="center">
-<a href="linkedin.com/in/tejkiran-kushwaha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tejkiran kushwaha" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tejkirankushwaha.tejkiran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tejkiran kushwaha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tejkiran_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
-<a href="https://leetcode.com/tejkiran_1/" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftejkiran_1&logo=leetcode&logoColor=yellow"/></a>
-</p>
+<a href="https://www.linkedin.com/in/naveenkumar9192" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="naveen" height="30" width="40" /></a>
+<a href="https://twitter.com/NaveenKumar_004" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="naveen" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/naveenkumar_004_/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Naveen Kumar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/chinna.nk4//" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Naveen Kumar" height="30" width="40" /></a>
+<a href="https://www.discordapp.com/users/NK4#3250" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Naveen Kumar" height="30" width="40" /></a>
 </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.tejkiran-1)
+---
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+<!-- [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/732ROgxOtYAUqf6DP0C8jr?si=23d56f27abde49cd) -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31miaxdd77kjbvzqz5oy42ibgxam&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+
+---
 
 <p align="center">
   <em>
-    I'm Tejkiran, a <b>Third year</b> undergraduate from <a href="https://set.jainuniversity.ac.in/"> <b>Jain University</b>, Bangalore</a>. <br>
-    A budding <b> Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    This is ME, M.R.Naveen Kumar, a <b>Final year</b> undergraduate from <a href="https://www.jainuniversity.ac.in/"> <b>Jain Deemed-to-be University</b>, Bangalore</a>. <br>
+    A budding <b> Data Science Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+    <b>grow</b>
   </em> 
 </p>
 
-<details><summary>Skills</summary>
+<details open><summary>Skills</summary>
 
 ### Programming languages I know:-
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> </a></p>
+  
+### Tools I like working with:-
+<p align="left">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit)
-![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-
-
+### Libraries I like working with:-
+<p align="left"> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
   
  ### Editors I like to use:-
 
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/eclipse-badge-blue.svg?logo=eclipse)
- 
+![visualstudio](https://img.shields.io/badge/Visual_Studio-BE33FF?style=for-the-badge&logo=visual-studio&logoColor=white)
   
 </details>
 
-<details><summary>Github stats</summary>
+<details ><summary>Github stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejkiran-1&theme=dark)](https://github.com/tejkiran-1?tab=repositories)
-<a href="https://github.com/tejkiran-1" >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-004&theme=dark)](https://github.com/Naveen-004?tab=repositories)
+<a href="https://github.com/Naveen-004" >
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejkiran-1&count_private=true&show_icons=true&locale=en&theme=dark" alt="tejkiran-1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveen-004&count_private=true&show_icons=true&locale=en&theme=dark" alt="Naveen-004" />
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tejkiran-1&theme=dark" alt="tejkiran-1"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-004&theme=dark" alt="Naveen-004"/>
 
 </a>
 
 </details>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+&nbsp;***Talking about Personal Stuffs...***
 
 ✔  ***Competitive***😉 <br>
-✔ I’m currently learning **Android App Dev** , **Web Dev** & **NoSQL** <br>
-✔ Currently working on Android Game: **Flappy Bird Clone** <br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br>
+✔ I’m currently learning **NLP** , **Pyspark** & **Big data** <br>
+✔ Currently working on Streaming Analytics and NLP <br>
+✔ Fun fact : *Stackoverflow - The only hope*<br>
 
 This paste expires in <1 hour. Public IP access. Share whatever you see with others in seconds with Context.Terms of ServiceReport this
