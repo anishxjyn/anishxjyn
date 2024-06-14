@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Naveen Kumar</h1>
+<h1 align="center">Hi, I'm Anish Kumar Jain</h1>
 <h3 align="center">Gamer |  Data Scientist  |  Tech Enthusiast</h3>
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/naveenkumar9192" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="naveen" height="30" width="40" /></a>
-<a href="https://twitter.com/NaveenKumar_004" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="naveen" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/naveenkumar_004_/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Naveen Kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anishrjain" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="naveen" height="30" width="40" /></a>
+<a href="https://x.com/anishx_saysss" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="naveen" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/xo.anishhhhhhhhhhhhh/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Naveen Kumar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/chinna.nk4//" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Naveen Kumar" height="30" width="40" /></a>
 <a href="https://www.discordapp.com/users/NK4#3250" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Naveen Kumar" height="30" width="40" /></a>
 </p>
